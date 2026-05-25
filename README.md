@@ -1,10 +1,10 @@
 ## David Morgan
 
-Atlanta, GA · [LinkedIn](https://www.linkedin.com/in/davidjmorgan26) · davidjmorgan26@gmail.com
+Atlanta, GA · [djmorgan26.github.io](https://djmorgan26.github.io) · [LinkedIn](https://www.linkedin.com/in/davidjmorgan26) · davidjmorgan26@gmail.com
 
 By day: Senior Data/AI Engineer in the AT&T Chief Data Office — shipping AI-powered platforms at enterprise scale (sole-developer of a $3M+/yr cost-savings system; recognized by AT&T's CTO during the company's 150th Anniversary livestream).
 
-By night: this portfolio — where I push the AI tooling I use at work past where it's officially supported, ship things end-to-end, and stay one step ahead of where the field is going.
+By night: [this portfolio](https://djmorgan26.github.io) — where I push the AI tooling I use at work past where it's officially supported, ship things end-to-end, and stay one step ahead of where the field is going.
 
 > A **working portfolio.** Most of these are **works in progress** — some are finished,
 > most aren't fully presentable or running right now. Code is open if you want to look;
