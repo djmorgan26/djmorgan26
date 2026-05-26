@@ -21,6 +21,7 @@ By night: [this portfolio](https://djmorgan26.github.io) — where I push the AI
 - **medical_code_reviewer** — AI-assisted platform for medical qualitative research. Codebook creation, transcript ingestion, first-pass AI code suggestions, inter-rater reliability, full audit trails. *FastAPI · Supabase · Next.js.*
 - **OWLS** — Clinical decision-support tool for Speech-Language Pathologists. OCR of handwritten Written Expression samples + deterministic OWLS scoring + clinician override with audit trail. *FastAPI · spaCy · Google Vision · Postgres.*
 - **TravelAgent** — AI travel planner with Amadeus flight search and Stripe payments. *React · FastAPI · Azure + Render.*
+- **resell-bot** *(personal project)* — An AI selling assistant I built to list my and my family's things on eBay and Facebook Marketplace when the official APIs weren't an option. Claude skills plus heavy context injection drive the whole pipeline — a photo becomes an item identification, comparable-sold pricing, and a ready-to-post listing — so a tedious chore turns into a one-line ask, with me approving every step. A small, practical version of the [context-injection ideas](https://djmorgan26.github.io/2026/05/25/strategical-context-injection.html) I write about.
 
 ---
 
