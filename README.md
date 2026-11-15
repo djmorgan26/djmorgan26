@@ -8,7 +8,7 @@ By night: [this portfolio](https://djmorgan26.github.io) — where I push the AI
 
 > A **working portfolio.** Most of these are **works in progress** — some are finished,
 > most aren't fully presentable or running right now. Code is open if you want to look;
-> live demos linked where one currently exists. Resume available on request.
+> live demos linked where one currently exists. Resume on [my site](https://djmorgan26.github.io/resume/).
 
 ---
 
