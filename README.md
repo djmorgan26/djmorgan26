@@ -2,7 +2,7 @@
 
 Atlanta, GA · [djmorgan26.github.io](https://djmorgan26.github.io) · [LinkedIn](https://www.linkedin.com/in/davidjmorgan26) · davidjmorgan26@gmail.com
 
-By day: Senior Data/AI Engineer in the AT&T Chief Data Office — shipping AI-powered platforms at enterprise scale (sole-developer of a $3M+/yr cost-savings system; recognized by AT&T's CTO during the company's 150th Anniversary livestream).
+By day: Senior Data/AI Engineer in the AT&T Chief Data Office — technical lead of a ~10-person team building a multi-tenant enterprise platform on Kubernetes, architect of an AI-native delivery framework that runs parallel agents across the whole software lifecycle, and sole developer of a platform behind $3M+ a year in savings (recognized by AT&T's CTO on a company-wide broadcast).
 
 By night: [this portfolio](https://djmorgan26.github.io) — where I push the AI tooling I use at work past where it's officially supported, ship things end-to-end, and stay one step ahead of where the field is going.
 
@@ -21,10 +21,11 @@ By night: [this portfolio](https://djmorgan26.github.io) — where I push the AI
 - **medical_code_reviewer** — AI-assisted platform for medical qualitative research. Codebook creation, transcript ingestion, first-pass AI code suggestions, inter-rater reliability, full audit trails. *FastAPI · Supabase · Next.js.*
 - **OWLS** — Clinical decision-support tool for Speech-Language Pathologists. OCR of handwritten Written Expression samples + deterministic OWLS scoring + clinician override with audit trail. *FastAPI · spaCy · Google Vision · Postgres.*
 - **TravelAgent** — AI travel planner with Amadeus flight search and Stripe payments. *React · FastAPI · Azure + Render.*
+- **fantasy-football-assistant** — Fantasy football app with a live view of games across all your leagues.
 - **resell-bot** *(personal project)* — An AI selling assistant I built to list my and my family's things on eBay and Facebook Marketplace when the official APIs weren't an option. Claude skills plus heavy context injection drive the whole pipeline — a photo becomes an item identification, comparable-sold pricing, and a ready-to-post listing — so a tedious chore turns into a one-line ask, with me approving every step. A small, practical version of the [context-injection ideas](https://djmorgan26.github.io/2026/05/25/strategical-context-injection.html) I write about.
 
 ---
 
 ### What I'm into
 
-Bleeding-edge AI tooling — Claude Code, MCP, agentic workflows, parallel agents via git worktrees, archetype design. I speak publicly on AI-fueled coding at AT&T, mentor colleagues hands-on, and design-partner for internal AI coding tools. I move at startup pace inside an enterprise — and want to find a team that already lives at that pace.
+Bleeding-edge AI tooling — Claude Code, MCP, agentic workflows, parallel agents via git worktrees, reusable agent skills. I speak publicly on AI-fueled coding at AT&T, mentor colleagues hands-on, and design-partner for internal AI coding tools. I move at startup pace inside an enterprise — and want to find a team that already lives at that pace.
