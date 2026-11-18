@@ -2,7 +2,7 @@
 
 Atlanta, GA · [djmorgan26.github.io](https://djmorgan26.github.io) · [LinkedIn](https://www.linkedin.com/in/davidjmorgan26) · davidjmorgan26@gmail.com
 
-By day: Senior Data/AI Engineer in the AT&T Chief Data Office — technical lead of a ~10-person team building a multi-tenant enterprise platform on Kubernetes, architect of an AI-native delivery framework that runs parallel agents across the whole software lifecycle, and sole developer of a platform behind $3M+ a year in savings (recognized by AT&T's CTO on a company-wide broadcast).
+By day: Senior AI / Data Engineer in the AT&T Chief Data Office — technical lead of a ~10-person team building a multi-tenant enterprise platform on Kubernetes, architect of an AI-native delivery framework that runs parallel agents across the whole software lifecycle, and sole developer of a platform behind $3M+ a year in savings (recognized by AT&T's CTO on a company-wide broadcast).
 
 By night: [this portfolio](https://djmorgan26.github.io) — where I push the AI tooling I use at work past where it's officially supported, ship things end-to-end, and stay one step ahead of where the field is going.
 
